@@ -1,9 +1,8 @@
 
 
-def meal_choice(name = "meat")
-  meal_choice = "#{name}"
-end 
-meal_choice
+def meal_choice(choice='meat')
+  choice
+end
 
 
 
